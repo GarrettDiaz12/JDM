@@ -90,7 +90,7 @@ Usted ha sido contratado para desarrollar un Software para gestionar el ingreso 
 -	Dateformart
 
 # Agradecimientos
-Agradezco a el maestro por orientarlo levy por la orientación sobre el tema y a mi compañero Leonel Aguirre en ayudarme con las complicaciones que se me presentaron durante en desarrollo.
+Agradezco a el maestro por orientarlo levy por la orientación sobre el tema 
 
 # Bibliografía
 https://platform.netbeans.org/tutorials/nbm-crud.html
