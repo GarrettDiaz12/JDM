@@ -1,4 +1,4 @@
-# CRUD                                                                               Diaz Cervera Brian Noe
+# CRUD / Diaz Cervera Brian Noe
 
 Desarrolle un programa con un formulario de registro en donde se muestren controles para los diferentes campos de información, una tabla en la parte inferior de la ventana y los botones para agregar, borrar y modificar la información tanto en la tabla (JTable) como en la base de datos.
 # Problemática a resolver
