@@ -84,7 +84,6 @@ Usted ha sido contratado para desarrollar un Software para gestionar el ingreso 
 -	JButton
 -	Eventos del mouse
 -	Driver JDBC
--	XAMPP
 -	Creación de base de datos
 -	JscrollPanel
 -	FreeMysql
