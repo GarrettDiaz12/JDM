@@ -12,34 +12,63 @@ Usted ha sido contratado para desarrollar un Software para gestionar el ingreso 
 - Un de java en este caso (IDE. NetBeans 8.2) 
 - Librerías como:
   import java.sql.Connection;
+  
   import java.sql.DriverManager;
+  
   import java.sql.ResultSet;
+  
   import java.sql.SQLException;
+  
   import java.sql.Statement;
+  
   import javax.swing.JOptionPane;
+  
   import java.text.DateFormat;
+  
   import java.text.SimpleDateFormat;
+  
   import java.util.Date;
+  
   import java.awt.BorderLayout;
+  
   import java.awt.Dimension;
+  
   import java.awt.GridLayout;
+  
   import java.awt.event.ActionEvent;
+  
   import java.awt.event.ActionListener;
+  
   import java.awt.event.KeyAdapter;
+  
   import java.awt.event.KeyEvent;
-  import java.awt.event.MouseAdapter;
+  
+  import java.awt.event.MouseAdapter
+  
   import java.awt.event.MouseEvent;
+  
   import java.sql.ResultSet;
+  
   import java.sql.ResultSetMetaData;
+  
   import java.sql.SQLException;
+  
   import javax.swing.JButton;
+  
   import javax.swing.JFrame;
+  
   import javax.swing.JLabel;
+  
   import javax.swing.JOptionPane;
-  import javax.swing.JPanel;
+  
+  import javax.swing.JPanel
+  
   import javax.swing.JScrollPane;
+  
   import javax.swing.JTable;
+  
   import javax.swing.JTextField;
+  
   import javax.swing.table.DefaultTableModel;
 
 
@@ -66,11 +95,17 @@ Agradezco a el maestro por orientarlo levy por la orientación sobre el tema y a
 
 # Bibliografía
 https://platform.netbeans.org/tutorials/nbm-crud.html
+
 file:///C:/Users/valti/Downloads/Como%20programar%20en%20Java%20-%207ma%20Edicion%20-%20P.%20J.%20Deitel.pdf
+
 http://javapiola.blogspot.com/2009/11/tutorial-jtable.html
+
 http://chuwiki.chuidiang.org/index.php?title=GridLayout
+
 http://panamahitek.com/comunicar-java-con-base-de-datos-mysql/
+
 http://chuwiki.chuidiang.org/index.php?title=JScrollPane
+
 https://www.javatpoint.com/java-gridbaglayout
 
 # Ejecución:
