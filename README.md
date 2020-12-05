@@ -10,6 +10,10 @@ Usted ha sido contratado para desarrollar un Software para gestionar el ingreso 
 - e) Utilice una interfaz de múltiples documentos (MDI): una ventana principal (a la que se le conoce comúnmente como la ventana padre) que contiene otras ventanas (a las que se les conoce comúnmente como ventanas hijas), para administrar varios documentos abiertos que se procesan en paralelo. Utilizar un menú para abrir las diferentes interfaces.
 # Pre-requisitos 
 - Un de java en este caso (IDE. NetBeans 8.2) 
+
+  IMPORTANTE
+  
+- Tener instaldo el driver mysql-connector-java-5.1.49
 - Librerías como:
   import java.sql.Connection;
   
